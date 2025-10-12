@@ -7,6 +7,8 @@ The topic that I chose to do for my freedom project is __performing arts__ as I 
 
 ## Sources
 
+One link that helped me see how important and needed technology is needed to bring out the most magical aspects to the whole performance in threatre is 
+
 [Next](entry02.md)
 
 [Home](../README.md)
