@@ -3,7 +3,7 @@
 
 ## Context
 
-### The topic that i chose to do for my freedom project is performing arts because
+#### The topic that i chose to do for my freedom project is performing arts because
 
 [Next](entry02.md)
 
