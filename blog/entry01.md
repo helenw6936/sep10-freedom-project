@@ -7,7 +7,7 @@ The topic that I chose to do for my freedom project is __performing arts__ as I 
 
 ## Sources
 
-One link that helped me see how important and needed technology is needed to bring out the most magical aspects and help enhance the performance, along with making actors feel more into the moment is ["How Technology Has Changed Theatre"](https://www.alltalent.com/article/how-technology-has-changed-the-theatre). This website talks about how technology can make threatre more inclusive for everyone, but also 
+One link that helped me see how important and needed technology is needed to bring out the most magical aspects and help enhance the performance, along with making actors feel more into the moment is ["How Technology Has Changed Theatre"](https://www.alltalent.com/article/how-technology-has-changed-the-theatre). This website talks about how technology can make threatre
 
 [Next](entry02.md)
 
