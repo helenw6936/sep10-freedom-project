@@ -15,7 +15,11 @@ Right now I am researching how technology has helped improve performing arts in 
 
 ## Skills
 
-Two of the most important skills that i have learned from working on this blog entry is __time management__ and __creativity__
+Two of the most important skills that i have learned from working on this blog entry are __time management__ and __creativity__.
+
+# Time Management
+
+I have learn to use my time better when working on this blog because as a high school student who has many other commitments outside of school time, its important for me to set up a schedule and know how to organize my other responsibilities. For example, I am on the girls varisty tennis team as one of the starting 7 of the season, so it's important for me to arrive to practice and games everyday as well as balancing my grades since I get home late. 
 
 [Next](entry02.md)
 
