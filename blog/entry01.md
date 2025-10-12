@@ -1,7 +1,7 @@
 # Entry 1: Performing Arts, Center Stage
 ##### 10/11/25
 
-## Context
+## Choosing a topic
 
 The topic that I chose to do for my freedom project is __performing arts__ as I have always liked the live entertainment brought by performing arts, along with the feeling of being the one on stage and performing. I have participated in back stage crew back in middle school and wanted to try out another aspect of theatre in high school which is stepping up to the next level and actually being on stsage, instead of behind the scenes.
 
