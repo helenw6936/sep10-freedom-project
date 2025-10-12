@@ -1,5 +1,5 @@
 # Entry 1: Choosing My Topic (Performing Arts)
-##### X/X/XX
+##### 10/11/25
 
 Text
 
