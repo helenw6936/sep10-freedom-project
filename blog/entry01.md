@@ -17,11 +17,11 @@ Right now I am researching how technology has helped improve performing arts in 
 
 Two of the most important skills that i have learned from working on this blog entry are __time management__ and __how to read__.
 
-# Time Management
+### Time Management
 
 I have learn to use my time better when working on this blog because as a high school student who has many other commitments outside of school time, its important for me to set up a schedule and know how to organize my other responsibilities. For example, I am on the girls varisty tennis team as one of the starting 7 of the season, so it's important for me to arrive to practice and games everyday as well as balancing my grades since I get home late. As tennis being one of my biggest commitments at the beginning of the year (theatre later) I need to find how to balance out my homeowrk and home responsibilities to get done what  I to so I dont feel overwhelmed, forget things, fail tests, or not turning in my work on time.
 
-# How To Read
+### How To Read
 
 Knowing how to read is very important because it can benefit me in understanding how technology is used in performing arts, thus create a website about it later on the year. This can help me gather information about it in the wesbites, learning how those websites are organized to benefit myself later on. It also taught me how to proof read my own blog before the due date to ensure my writing is proper with no typos. 
 
