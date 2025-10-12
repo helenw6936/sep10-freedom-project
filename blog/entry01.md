@@ -11,7 +11,7 @@ One article that helped me see how important and needed technology is to bring o
 
 ## Engineering Design Process
 
-
+Right now I am researching how technology has helped improve performing arts in both a positive but also negative way. This way I can see how it might cause problems even though it is a positive aspect but to also solve that problem with using technology to fix what it has caused. Then I can 
 
 [Next](entry02.md)
 
