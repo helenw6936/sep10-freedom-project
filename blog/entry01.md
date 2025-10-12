@@ -3,6 +3,8 @@
 
 ## Context
 
+### The topic that i chose to do for my freedom project is performing arts because
+
 [Next](entry02.md)
 
 [Home](../README.md)
