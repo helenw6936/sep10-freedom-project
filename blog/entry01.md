@@ -15,6 +15,8 @@ Right now I am researching how technology has helped improve performing arts in 
 
 ## Skills
 
+Two of the most important skills that i have learned from working on this blog entry is __time management__ and __creativity__
+
 [Next](entry02.md)
 
 [Home](../README.md)
