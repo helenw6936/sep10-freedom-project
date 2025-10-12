@@ -19,7 +19,7 @@ Two of the most important skills that i have learned from working on this blog e
 
 ### Time Management
 
-I have learn to use my time better when working on this blog because as a high school student who has many other commitments outside of school time, its important for me to set up a schedule and know how to organize my other responsibilities. For example, I am on the girls varisty tennis team as one of the starting 7 of the season, so it's important for me to arrive to practice and games everyday as well as balancing my grades since I get home late. As tennis being one of my biggest commitments at the beginning of the year (theatre later) I need to find how to balance out my homeowrk and home responsibilities to get done what  I to so I dont feel overwhelmed, forget things, fail tests, or not turning in my work on time.
+I have learned to use my time better when working on this blog because as a high school student who has many other commitments outside of school time, its important for me to set up a schedule and know how to organize my other responsibilities. For example, I am on the girls varisty tennis team as one of the starting 7 of the season, so it's important for me to arrive to practice and games everyday as well as balancing my grades since I get home late. As tennis being one of my biggest commitments at the beginning of the year (theatre later) I need to find how to balance out my homeowrk and home responsibilities to get done what  I to so I dont feel overwhelmed, forget things, fail tests, or not turning in my work on time.
 
 ### How To Read
 
