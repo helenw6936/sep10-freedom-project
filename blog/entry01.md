@@ -23,7 +23,11 @@ I have learned to use my time better when working on this blog because as a high
 
 ### How To Read
 
-Knowing how to read is very important because it can benefit me in understanding how technology is used in performing arts, thus create a website about it later on the year. This can help me gather information about it in the wesbites, learning how those websites are organized to benefit myself later on. It also taught me how to proof read my own blog before the due date to ensure my writing is proper with no typos. 
+Knowing how to read is very important because it can benefit me in understanding how technology is used in performing arts, thus create a website about it later on the year. This can help me gather information about it in the wesbites, learning how those websites are organized to benefit myself later on. It also taught me how to proof read my own blog before the due date to ensure my writing is proper with no typos.
+
+## Summary
+
+I am looking forward to create and learn more about technology within performing arts!
 
 [Next](entry02.md)
 
