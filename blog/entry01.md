@@ -13,6 +13,8 @@ One article that helped me see how important and needed technology is to bring o
 
 Right now I am researching how technology has helped improve performing arts in both a positive but also negative way. This way I can see how it might cause problems even though it is a positive aspect but to also solve that problem with using technology to fix what it has caused. Using those knowledge, it would allow me to buuld a website on teaching others how technology has impacted the performing arts field and to also include ways to solve yet still keeping the surreal experience of the show by incorporating tech that causes less problems and enchances performance just the same.
 
+## Skills
+
 [Next](entry02.md)
 
 [Home](../README.md)
