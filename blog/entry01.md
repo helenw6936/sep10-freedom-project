@@ -1,4 +1,4 @@
-# Entry 1
+# Entry 1: Choosing My Topic (Performing Arts)
 ##### X/X/XX
 
 Text
