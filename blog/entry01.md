@@ -1,7 +1,7 @@
 # Entry 1: Choosing My Topic (Performing Arts)
 ##### 10/11/25
 
-Text
+### Context
 
 [Next](entry02.md)
 
