@@ -7,7 +7,7 @@ The topic that I chose to do for my freedom project is __performing arts__ as I 
 
 ## Sources
 
-One link that helped me see how important and needed technology is needed to bring out the most magical aspects to the whole performance in threatre is ["The Future of Performing Arts"]([https://oese.ed.gov/archived/oii/use-of-technology-in-teaching-and-learning/](https://www.apf.org/post/the-future-of-performing-art)
+One link that helped me see how important and needed technology is needed to bring out the most magical aspects to the whole performance in threatre is ["The Future of Performing Arts"](https://oese.ed.gov/archived/oii/use-of-technology-in-teaching-and-learning/](https://www.apf.org/post/the-future-of-performing-art)
 
 [Next](entry02.md)
 
