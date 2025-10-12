@@ -1,4 +1,4 @@
-# Entry 1: Choosing My Topic (Performing Arts)
+# Entry 1: Performing Arts, Center Stage
 ##### 10/11/25
 
 ## Context
