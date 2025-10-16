@@ -11,7 +11,7 @@ One article that helped me see how important and needed technology is to bring o
 
 ## Engineering Design Process
 
-Right now I am researching how technology has helped improve performing arts in both a positive but also negative way. This way I can see how it might cause problems and to solve that problem with using technology to fix what it has caused. Using those knowledge, it would allow me to buuld a website on teaching others how technology has impacted the performing arts field and to also include ways to solve yet still keeping the surreal experience of the show by incorporating tech that causes less problems and enchances performance just the same.
+Right now I am researching how technology has helped improve performing arts in both a positive but also negative way. This way I can see how it might cause problems and to solve that problem with using technology to fix what it has caused. Using those knowledge, it would allow me to buuld a website on teaching others how technology has impacted the performing arts field and to also include ways to solve yet still keeping the surreal experience of the show by incorporating tech that causes less problems and enchances performance just the same. The next step in my engineering design process is to continue researching information on technology impacting the feature of theatre and jot down notes to help me.
 
 ## Skills
 
