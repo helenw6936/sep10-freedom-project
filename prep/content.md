@@ -13,6 +13,7 @@ Topic: **Performing Arts**
       * wheelchair-accessible seating
       * sensory-friendly
       * interpretive services, etc
+    *  it includes digital programs, event information, advertising, and cast/crew details
 
 ## Part B: possible future technology
 * Idea
