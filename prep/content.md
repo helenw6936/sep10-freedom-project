@@ -3,6 +3,7 @@ Topic: **Performing Arts**
 
 ## Overview/Introduction/Context
 * Performing arts can advance with well with the help of technology being incorporated into it. Using technology, it can make it easier for actors to communicate together and access more information about the performance but also for the viewers to reach out abut the show and special accommodations they might need. This can help with the experience for both the actors but also the audience with more such as visuals effects brought by technology.
+* These contents will help with the development of my performing arts website allowing me to gather informations and details using the internet to take in how and what technology has done in different ways to help with performances.
 
 ## Part A: existing technology
 * Tech
