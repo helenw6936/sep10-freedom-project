@@ -19,9 +19,9 @@ Topic: **Performing Arts**
     * [Dramarts](https://www.dramarts.com/landing)
       * a productive app that allows easier access to schedules, script editing, and communications specially made for theatre
       * https://www.dramarts.com/img/logo.png
-      * * internal and external communication
-        * sharing of information, photos, and videos
-        * facilitates and organizes the organization of work such as the logistics and coordination
+        * internal and external communication
+          * sharing of information, photos, and videos
+          * facilitates and organizes the organization of work such as the logistics and coordination
    
 ## Part B: possible future technology
 * Idea
