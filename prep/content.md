@@ -16,7 +16,7 @@ Topic: **Performing Arts**
     * it includes digital programs, event information, advertising, and cast/crew details
     * easier access to information about the shows than traditional printing
   * Google search: "Performing arts technology apps"
-* [Dramarts](https://www.dramarts.com/landing)  
+    * [Dramarts](https://www.dramarts.com/landing)  
 ## Part B: possible future technology
 * Idea
   * Detail
