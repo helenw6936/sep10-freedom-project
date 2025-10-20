@@ -14,7 +14,7 @@ Topic: **Performing Arts**
       * sensory-friendly
       * interpretive services, etc
     * it includes digital programs, event information, advertising, and cast/crew details
-    * easier access to information about the shows than traditional printin
+    * easier access to information about the shows than traditional printing
 
 ## Part B: possible future technology
 * Idea
