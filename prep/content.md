@@ -12,7 +12,7 @@ Topic: **Performing Arts**
     * Encore+ is a mobile-first web app that allows people to access services that are offered to by many performing arts organizations such as:
       * wheelchair-accessible seating
       * sensory-friendly
-      * interpretive services, etc.
+      * interpretive services, etc
 
 ## Part B: possible future technology
 * Idea
