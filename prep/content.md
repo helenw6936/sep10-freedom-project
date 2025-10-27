@@ -37,5 +37,5 @@ Topic: **Performing Arts**
       * book available classes, events, and announcements through the app 
    
 ## Part B: possible future technology
-* Idea
-  * Detail
+* Hardware performing arts technology: performing arts sound amplification device
+  * [Electro-Voice](https://www.electrovoice.com/applications/performing-arts/)
