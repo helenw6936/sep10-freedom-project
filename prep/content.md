@@ -32,7 +32,7 @@ Topic: **Performing Arts**
           * insert photos, videos, audios and other files quickly and easil
           * share notes between the actors and the directing team
           * modern intuitive tool, easy to use and more ecological
-* [Performing Arts Empire](https://apps.apple.com/sa/app/performing-arts-empire/id6745223804?uo=2)
+  * [Performing Arts Empire](https://apps.apple.com/sa/app/performing-arts-empire/id6745223804?uo=2)
       * easy for you to manage and keep track your Performing Arts Empire account
       * book available classes, events, and announcements through the app 
    
