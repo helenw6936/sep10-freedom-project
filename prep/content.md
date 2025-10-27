@@ -39,3 +39,6 @@ Topic: **Performing Arts**
 ## Part B: possible future technology
 * Hardware performing arts technology: performing arts sound amplification device
   * [Electro-Voice](https://www.electrovoice.com/applications/performing-arts/)
+    * advances the audio performance, allowing coverage for all seats
+    * high speech intelligibility
+    * [System solution](https://www.youtube.com/watch?v=CljahXm_MVk&t=2s)
