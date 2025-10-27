@@ -40,5 +40,6 @@ Topic: **Performing Arts**
 * Hardware performing arts technology: performing arts sound amplification device
   * [Electro-Voice](https://www.electrovoice.com/applications/performing-arts/)
     * advances the audio performance, allowing coverage for all seats
-    * high speech intelligibility
+    * high speech intelligibility, clean natural sound mix for music and voices
     * [System solution](https://www.youtube.com/watch?v=CljahXm_MVk&t=2s)
+    * 
