@@ -44,3 +44,5 @@ Topic: **Performing Arts**
     * [System solution](https://www.youtube.com/watch?v=CljahXm_MVk&t=2s)
     * blending into the architecture while filling the room with superior audio quality
     * range of choices to precisely bring top-tier audio performance to audience-centered spaces of every size and shape
+  * Projection Mapping
+    * creates a immersive and cost-effective visual experiences 
