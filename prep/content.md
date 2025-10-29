@@ -57,3 +57,4 @@ Topic: **Performing Arts**
     * enable new forms of interactivity
     * [Virtual Reality](https://www.youtube.com/watch?v=xgHUYbNDSrI&t=389s)
     * [VR and AR](https://amt-lab.org/blog/2021/8/how-vr-and-ar-are-changing-the-world-of-immersive-theater)
+    * [VR tricks](youtube.com/watch?time_continue=1&v=ybyib5pAq7Y&embeds_referring_euri=https%3A%2F%2Famt-lab.org%2F)
