@@ -42,4 +42,5 @@ Topic: **Performing Arts**
     * advances the audio performance, allowing coverage for all seats
     * high speech intelligibility, clean natural sound mix for music and voices
     * [System solution](https://www.youtube.com/watch?v=CljahXm_MVk&t=2s)
-    * 
+    * blending into the architecture while filling the room with superior audio quality
+    * range of choices to precisely bring top-tier audio performance to audience-centered spaces of every size and shape
