@@ -45,4 +45,7 @@ Topic: **Performing Arts**
     * blending into the architecture while filling the room with superior audio quality
     * range of choices to precisely bring top-tier audio performance to audience-centered spaces of every size and shape
   * Projection Mapping
-    * creates a immersive and cost-effective visual experiences 
+    * uses a projector
+    * creates a immersive and cost-effective visual experiences
+    * adds depth, animation, and optical illusions to sets without requiring extensive physical construction
+    * [project mapping](https://www.youtube.com/watch?v=5oOAoKk6gww&t=22s)
