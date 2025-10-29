@@ -46,6 +46,8 @@ Topic: **Performing Arts**
     * range of choices to precisely bring top-tier audio performance to audience-centered spaces of every size and shape
   * Projection Mapping
     * uses a projector
+    * sensors and trackers
     * creates a immersive and cost-effective visual experiences
     * adds depth, animation, and optical illusions to sets without requiring extensive physical construction
     * [project mapping](https://www.youtube.com/watch?v=5oOAoKk6gww&t=22s)
+    * [projection mapping](https://www.heavym.net/unveiling-the-art-of-projection-design-theater-use-case/)
