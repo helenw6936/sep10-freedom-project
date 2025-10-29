@@ -51,3 +51,8 @@ Topic: **Performing Arts**
     * adds depth, animation, and optical illusions to sets without requiring extensive physical construction
     * [project mapping](https://www.youtube.com/watch?v=5oOAoKk6gww&t=22s)
     * [projection mapping](https://www.heavym.net/unveiling-the-art-of-projection-design-theater-use-case/)
+  * Virtual Reality
+    * create immersive experiences for audiences
+    * and provide unique training tools for performers
+    * enable new forms of interactivity
+    * [Virtual Reality](https://www.youtube.com/watch?v=xgHUYbNDSrI&t=389s)
