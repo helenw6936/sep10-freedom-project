@@ -1,7 +1,9 @@
-# Entry 2: 
+# Entry 2: Researching Information
 ##### 11/03/25
 
 ## Content 
+
+Having performing arts as my topic for my freedom project, I had to do many researches about both the software and hardware technology that exists within the performing arts industry. 
 
 [Previous](entry01.md) | [Next](entry03.md)
 
