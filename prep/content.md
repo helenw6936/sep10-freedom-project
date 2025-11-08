@@ -36,7 +36,7 @@ Topic: **Performing Arts**
       * easy for you to manage and keep track your Performing Arts Empire account
       * book available classes, events, and announcements through the app
 
-   * Hardware performing arts technology: performing arts sound amplification device
+* Hardware performing arts technology: performing arts sound amplification device
   * [Electro-Voice](https://www.electrovoice.com/applications/performing-arts/)
     * advances the audio performance, allowing coverage for all seats
     * high speech intelligibility, clean natural sound mix for music and voices
