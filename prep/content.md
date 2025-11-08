@@ -29,7 +29,7 @@ Topic: **Performing Arts**
           * easier to update and edit script for everyone
         * reading of text integrated to the app
           * reading of theater scripts on mobile support, smartphone or tablet
-          * insert photos, videos, audios and other files quickly and easil
+          * insert photos, videos, audios and other files quickly and easily
           * share notes between the actors and the directing team
           * modern intuitive tool, easy to use and more ecological
   * [Performing Arts Empire](https://apps.apple.com/sa/app/performing-arts-empire/id6745223804?uo=2)
