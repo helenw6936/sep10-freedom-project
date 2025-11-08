@@ -34,10 +34,9 @@ Topic: **Performing Arts**
           * modern intuitive tool, easy to use and more ecological
   * [Performing Arts Empire](https://apps.apple.com/sa/app/performing-arts-empire/id6745223804?uo=2)
       * easy for you to manage and keep track your Performing Arts Empire account
-      * book available classes, events, and announcements through the app 
-   
-## Part B: possible future technology
-* Hardware performing arts technology: performing arts sound amplification device
+      * book available classes, events, and announcements through the app
+
+   * Hardware performing arts technology: performing arts sound amplification device
   * [Electro-Voice](https://www.electrovoice.com/applications/performing-arts/)
     * advances the audio performance, allowing coverage for all seats
     * high speech intelligibility, clean natural sound mix for music and voices
@@ -58,3 +57,5 @@ Topic: **Performing Arts**
     * [Virtual Reality](https://www.youtube.com/watch?v=xgHUYbNDSrI&t=389s)
     * [VR and AR](https://amt-lab.org/blog/2021/8/how-vr-and-ar-are-changing-the-world-of-immersive-theater)
     * [VR tricks](youtube.com/watch?time_continue=1&v=ybyib5pAq7Y&embeds_referring_euri=https%3A%2F%2Famt-lab.org%2F)
+   
+## Part B: possible future technology
