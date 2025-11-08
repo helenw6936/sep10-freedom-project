@@ -7,7 +7,7 @@ Having chosen performing arts as my topic for my freedom project, I had to do ma
 
 #### Software Technologies
 * Encore+ is a mobile-first web app that allows people to access services that are offered by many performing arts organizations such as accommondations for wheelchair-accessible seating, assistive listening devices, interpretive services, etc. The app also allows for viewers to obtain information about the performance like digital programs, event information, advertising, cast/crew details which makes it easier to access than trandition printing.
-* Dramarts is another productive app designed to make it easier for perfomers to access schedules, script editing, and communications when it came to performances.
+* Dramarts is another productive app designed to make it easier for performers to access schedules, script editing, and communications when it came to performances.
 
 [Previous](entry01.md) | [Next](entry03.md)
 
