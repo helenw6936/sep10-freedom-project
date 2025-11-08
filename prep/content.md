@@ -59,3 +59,5 @@ Topic: **Performing Arts**
     * [VR tricks](youtube.com/watch?time_continue=1&v=ybyib5pAq7Y&embeds_referring_euri=https%3A%2F%2Famt-lab.org%2F)
    
 ## Part B: possible future technology
+* Idea
+  * Detail
