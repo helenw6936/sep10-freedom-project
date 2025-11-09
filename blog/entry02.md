@@ -16,6 +16,7 @@ Having chosen performing arts as my topic for my freedom project, I had to do ma
 * [VR&AR](https://amt-lab.org/blog/2021/8/how-vr-and-ar-are-changing-the-world-of-immersive-theater) used as a hardware in performing arts creates an immersive experiences for audiences and provide unique training tools for performers which also helps with enabling new forms of interactivity in the show.
 
 #### Researches
+In order to find information and technologies that people are not all informed about, I had to do many google searches in websites like [Gale Academic Onefile](https://galeapps.gale.com/apps/auth?userGroupName=nysl_me_76_tele&da=true&origURL=https%3A%2F%2Fgo.gale.com%2Fps%2Fretrieve.do%3FtabID%3DT004%26resultListType%3DRESULT_LIST%26searchResultsType%3DSingleTab%26retrievalId%3Dabdd1bca-3514-4465-8a6e-1bcbda7b9129%26hitCount%3D7%26searchType%3DBasicSearchForm%26currentPosition%3D3%26docId%3DGALE%257CA671513755%26docType%3DArticle%26sort%3DRelevance%26contentSegment%3DZONE-MOD1%26prodId%3DAONE%26pageNum%3D1%26contentSet%3DGALE%257CA671513755%26searchId%3DR1%26userGroupName%3Dnysl_me_76_tele%26inPS%3Dtrue&prodId=AONE)
 
 [Previous](entry01.md) | [Next](entry03.md)
 
