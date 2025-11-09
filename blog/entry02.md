@@ -12,7 +12,7 @@ Having chosen performing arts as my topic for my freedom project, I had to do ma
 
 #### Hardware Technologies
 * [Electro-voice](https://www.electrovoice.com/applications/performing-arts/) is a sound amplification device that helps advance the audio for performances. it allows a wide set of courage through different sizes of stages and is high in speech intelligibility for a clean natural sound mix for both voices and music. it can blend into the architecture while filling the room with superior audio quality and ranges of choices to precisely bring top-tier audio performance to audience-centered spaces of every size and shape.
-* [Projection-Mapping](https://www.heavym.net/unveiling-the-art-of-projection-design-theater-use-case/)
+* [Projection-Mapping](https://www.heavym.net/unveiling-the-art-of-projection-design-theater-use-case/) involving a projector with sensors and trackers for creating a immersive and cost-effective visual experience. It helps add depth, animation, and optical illusions to set without entensive physical construction.
 * [VR&AR](https://amt-lab.org/blog/2021/8/how-vr-and-ar-are-changing-the-world-of-immersive-theater)
 
 [Previous](entry01.md) | [Next](entry03.md)
