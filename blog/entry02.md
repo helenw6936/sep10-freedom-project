@@ -29,7 +29,7 @@ There are two important skills that I have learned in this process of searching 
 I have improved in the skills of how to google while working on researching technologies. When finding hardware and software to educate others on that many doesnt know exist has been hard since google ususally shows a wide range that is already popular in the result of the searches. I had to improvise and search for another form of the same word like replacing performing arts with entertaiment or theatre which helps me get better and more ranges of results thats not so common.
 
 #### Growth Mindset
-Having to research and include many details about technologies involved in theatre, it has helped me develop better patience and mindset since googling and researching takes time especially if its looking for someone that most people dont know about. 
+Having to research and include many details about technologies involved in theatre, it has helped me develop better patience and mindset since googling and researching takes time especially if its looking for someone that most people dont know about. This has helped me in getting better at doing tasks that takes time and patience and not to give up even if the first thing that pops up isnt what i'm looking for. 
 
 [Previous](entry01.md) | [Next](entry03.md)
 
