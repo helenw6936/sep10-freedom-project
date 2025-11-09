@@ -11,7 +11,9 @@ Having chosen performing arts as my topic for my freedom project, I had to do ma
 * [Performing Arts Empire](https://apps.apple.com/sa/app/performing-arts-empire/id6745223804) is a  app that can be easily managed and track through with an account, it helps people with booking available classes, events, and announcements through the app.
 
 #### Hardware Technologies
-* Electro-voice
+* [Electro-voice](https://www.electrovoice.com/applications/performing-arts/)
+* [Projection-Mapping](https://www.heavym.net/unveiling-the-art-of-projection-design-theater-use-case/)
+* [VR&AR](https://amt-lab.org/blog/2021/8/how-vr-and-ar-are-changing-the-world-of-immersive-theater)
 
 [Previous](entry01.md) | [Next](entry03.md)
 
