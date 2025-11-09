@@ -11,7 +11,7 @@ Having chosen performing arts as my topic for my freedom project, I had to do ma
 * [Performing Arts Empire](https://apps.apple.com/sa/app/performing-arts-empire/id6745223804) is a  app that can be easily managed and track through with an account, it helps people with booking available classes, events, and announcements through the app.
 
 #### Hardware Technologies
-* [Electro-voice](https://www.electrovoice.com/applications/performing-arts/)
+* [Electro-voice](https://www.electrovoice.com/applications/performing-arts/) is a sound amplification device that helps advance the audio for performances. it allows a wide set of courage through different sizes of stages and is high in speech intelligibility for a clean natural sound mix for both voices and music. it can blend into the architecture while filling the room with superior audio quality and ranges of choices to precisely bring top-tier audio performance to audience-centered spaces of every size and shape.
 * [Projection-Mapping](https://www.heavym.net/unveiling-the-art-of-projection-design-theater-use-case/)
 * [VR&AR](https://amt-lab.org/blog/2021/8/how-vr-and-ar-are-changing-the-world-of-immersive-theater)
 
