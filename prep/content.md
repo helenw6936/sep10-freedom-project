@@ -6,8 +6,7 @@ Topic: **Performing Arts**
 * Performing arts can advance with the help of technology being incorporated into it. Using technology, it can make it easier for actors to communicate together and access more information about the performance but also for the viewers to reach out abut the show and special accommodations they might need. This can help with the experience for both the actors but also the audience with more such as visuals effects brought by technology.
 * These contents will help with the development of my performing arts website allowing me to gather informations and details using the internet to take in how and what technology has done in different ways to help with performances in many aspects.
 
-## Part A: Existing Software Technology
-* Tech
+## Categories 
 * Went to link "Gale Opposing Viewpoints" found in document "HSTAT Library Links"
   * [Encore+](https://go.gale.com/ps/retrieve.do?tabID=T004&resultListType=RESULT_LIST&searchResultsType=SingleTab&retrievalId=abdd1bca-3514-4465-8a6e-1bcbda7b9129&hitCount=7&searchType=BasicSearchForm&currentPosition=3&docId=GALE%7CA671513755&docType=Article&sort=Relevance&contentSegment=ZONE-MOD1&prodId=AONE&pageNum=1&contentSet=GALE%7CA671513755&searchId=R1&userGroupName=nysl_me_76_tele&inPS=true)
   * [Encore+ app official website](https://www.encoreplus.app/accessible-performances/)
@@ -36,7 +35,6 @@ Topic: **Performing Arts**
   * [Performing Arts Empire](https://apps.apple.com/sa/app/performing-arts-empire/id6745223804?uo=2)
       * easy for you to manage and keep track your Performing Arts Empire account
       * book available classes, events, and announcements through the app
-## Part A: Existing Hardware Technology
 * Hardware performing arts technology: performing arts sound amplification device
   * [Electro-Voice](https://www.electrovoice.com/applications/performing-arts/)
     * advances the audio performance, allowing coverage for all seats
