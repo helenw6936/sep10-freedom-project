@@ -22,20 +22,20 @@ link "Gale Opposing Viewpoints" found in document "HSTAT Library Links" Google s
     * easier access to information about the shows than traditional printing
 #### Most complex:
 * [Dramarts](https://www.dramarts.com/landing)
-      * a productive app that allows easier access to schedules, script editing, and communications specially made for theatre
-      * https://www.dramarts.com/img/logo.png
-        * internal and external communication
-          * sharing of information, photos, and videos
-          * facilitates and organizes the organization of work such as the logistics and coordination
-        * allow to coordinate the life of the company and the planning of tasks
-          * plan reshearsals suitable for the corresponding actors
-          * helps with centralizing contracts between the actors and company
-          * easier to update and edit script for everyone
-        * reading of text integrated to the app
-          * reading of theater scripts on mobile support, smartphone or tablet
-          * insert photos, videos, audios and other files quickly and easily
-          * share notes between the actors and the directing team
-          * modern intuitive tool, easy to use and more ecological
+  * a productive app that allows easier access to schedules, script editing, and communications specially made for theatre
+    * https://www.dramarts.com/img/logo.png
+    * internal and external communication
+      * sharing of information, photos, and videos
+      * facilitates and organizes the organization of work such as the logistics and coordination
+    * allow to coordinate the life of the company and the planning of tasks
+      * plan reshearsals suitable for the corresponding actors
+      * helps with centralizing contracts between the actors and company
+      * easier to update and edit script for everyone
+  * reading of text integrated to the app
+    * reading of theater scripts on mobile support, smartphone or tablet
+    * insert photos, videos, audios and other files quickly and easily
+    * share notes between the actors and the directing team
+    * modern intuitive tool, easy to use and more ecological
 * Hardware performing arts technology: performing arts sound amplification device
   * [Electro-Voice](https://www.electrovoice.com/applications/performing-arts/)
     * advances the audio performance, allowing coverage for all seats
