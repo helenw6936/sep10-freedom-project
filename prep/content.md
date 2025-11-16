@@ -11,7 +11,6 @@ Topic: **Performing Arts**
 link "Gale Opposing Viewpoints" found in document "HSTAT Library Links" Google search: "Performing arts technology apps"
 * [Performing Arts Empire](https://apps.apple.com/sa/app/performing-arts-empire/id6745223804?uo=2)
   * Easy to manage and keep track your Performing Arts Empire account which allow for booking available classes, events, and announcements through the app.
-#### Mildly complex:
 * [Encore+](https://go.gale.com/ps/retrieve.do?tabID=T004&resultListType=RESULT_LIST&searchResultsType=SingleTab&retrievalId=abdd1bca-3514-4465-8a6e-1bcbda7b9129&hitCount=7&searchType=BasicSearchForm&currentPosition=3&docId=GALE%7CA671513755&docType=Article&sort=Relevance&contentSegment=ZONE-MOD1&prodId=AONE&pageNum=1&contentSet=GALE%7CA671513755&searchId=R1&userGroupName=nysl_me_76_tele&inPS=true)
   * [Encore+ app official website](https://www.encoreplus.app/accessible-performances/)
     * Encore+ is a mobile-first web app that allows people to access services that are offered to by many performing arts organizations such as:
@@ -20,7 +19,7 @@ link "Gale Opposing Viewpoints" found in document "HSTAT Library Links" Google s
       * interpretive services, etc
     * it includes digital programs, event information, advertising, and cast/crew details
     * easier access to information about the shows than traditional printing
-#### Most complex:
+#### Mildly complex:
 * [Dramarts](https://www.dramarts.com/landing)
   * a productive app that allows easier access to schedules, script editing, and communications specially made for theatre
     * https://www.dramarts.com/img/logo.png
@@ -36,6 +35,7 @@ link "Gale Opposing Viewpoints" found in document "HSTAT Library Links" Google s
      * insert photos, videos, audios and other files quickly and easily
      * share notes between the actors and the directing team
      * modern intuitive tool, easy to use and more ecological
+#### Most complex:
 * Hardware performing arts technology: performing arts sound amplification device
   * [Electro-Voice](https://www.electrovoice.com/applications/performing-arts/)
     * advances the audio performance, allowing coverage for all seats
