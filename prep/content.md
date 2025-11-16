@@ -24,17 +24,10 @@ Hardware performing arts technology: performing arts sound amplification device.
 * [Electro-Voice](https://www.electrovoice.com/applications/performing-arts/) advances the audio performance, allowing coverage for all seats at high speech intelligibility, clean natural sound mix for music and voices.
     * [System solution](https://www.youtube.com/watch?v=CljahXm_MVk&t=2s) blends into the architecture while filling the room with superior audio quality with ranges of choices to precisely bring top-tier audio performance to audience-centered spaces of every size and shape.
 #### Most complex:
-  * Projection Mapping
-    * uses a projector
-    * sensors and trackers
-    * creates a immersive and cost-effective visual experiences
-    * adds depth, animation, and optical illusions to sets without requiring extensive physical construction
+  * Projection Mapping uses a projector, sensors, and trackers to create a immersive and cost-effective visual experiences and adds depth, animation, and optical illusions to sets without requiring extensive physical construction
     * [project mapping](https://www.youtube.com/watch?v=5oOAoKk6gww&t=22s)
     * [projection mapping](https://www.heavym.net/unveiling-the-art-of-projection-design-theater-use-case/)
-  * Virtual Reality
-    * create immersive experiences for audiences
-    * and provide unique training tools for performers
-    * enable new forms of interactivity
+  * Virtual Reality creates immersive experiences for audiences and provide unique training tools for performers which enable new forms of interactivity
     * [Virtual Reality](https://www.youtube.com/watch?v=xgHUYbNDSrI&t=389s)
     * [VR and AR](https://amt-lab.org/blog/2021/8/how-vr-and-ar-are-changing-the-world-of-immersive-theater)
     * [VR tricks](youtube.com/watch?time_continue=1&v=ybyib5pAq7Y&embeds_referring_euri=https%3A%2F%2Famt-lab.org%2F)
