@@ -35,14 +35,14 @@ link "Gale Opposing Viewpoints" found in document "HSTAT Library Links" Google s
      * insert photos, videos, audios and other files quickly and easily
      * share notes between the actors and the directing team
      * modern intuitive tool, easy to use and more ecological
-#### Most complex:
-* Hardware performing arts technology: performing arts sound amplification device
-  * [Electro-Voice](https://www.electrovoice.com/applications/performing-arts/)
+Hardware performing arts technology: performing arts sound amplification device
+* [Electro-Voice](https://www.electrovoice.com/applications/performing-arts/)
     * advances the audio performance, allowing coverage for all seats
     * high speech intelligibility, clean natural sound mix for music and voices
     * [System solution](https://www.youtube.com/watch?v=CljahXm_MVk&t=2s)
     * blending into the architecture while filling the room with superior audio quality
     * range of choices to precisely bring top-tier audio performance to audience-centered spaces of every size and shape
+#### Most complex:
   * Projection Mapping
     * uses a projector
     * sensors and trackers
