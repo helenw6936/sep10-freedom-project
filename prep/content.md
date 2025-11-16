@@ -16,7 +16,7 @@ link "Gale Opposing Viewpoints" found in document "HSTAT Library Links" Google s
     * Encore+ is a mobile-first web app that allows people to access services that are offered to by many performing arts organizations such as wheelchair-accessible seating, sensory-friendly, interpretive services, etc.
     * it includes digital programs, event information, advertising, and cast/crew details which makes it easier access to information about the shows than traditional printing.
 #### Mildly complex:
-* [Dramarts](https://www.dramarts.com/landing) isa productive app that allows easier access to schedules, script editing, and communications specially made for theatre.
+* [Dramarts](https://www.dramarts.com/landing) is a productive app that allows easier access to schedules, script editing, and communications specially made for theatre.
    * internal and external communication allows for sharing of information, photos, and videos and facilitates and organizes the organization of work such as the logistics and coordination
    * allow to coordinate the life of the company and the planning of tasks like plan reshearsals suitable for the corresponding actors and helps with centralizing contracts between the actors and company, its easier to update and edit script for everyone
    * reading of text integrated to the app, reading of theater scripts on mobile support, smartphone or tablet. Can insert photos, videos, audios and other files quickly and easily, allows allows for sharing notes between the actors and the directing team and uses a modern intuitive tool, easy to use and more ecological way.
