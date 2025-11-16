@@ -32,10 +32,10 @@ link "Gale Opposing Viewpoints" found in document "HSTAT Library Links" Google s
       * helps with centralizing contracts between the actors and company
       * easier to update and edit script for everyone
    * reading of text integrated to the app
-    * reading of theater scripts on mobile support, smartphone or tablet
-    * insert photos, videos, audios and other files quickly and easily
-    * share notes between the actors and the directing team
-    * modern intuitive tool, easy to use and more ecological
+     * reading of theater scripts on mobile support, smartphone or tablet
+     * insert photos, videos, audios and other files quickly and easily
+     * share notes between the actors and the directing team
+     * modern intuitive tool, easy to use and more ecological
 * Hardware performing arts technology: performing arts sound amplification device
   * [Electro-Voice](https://www.electrovoice.com/applications/performing-arts/)
     * advances the audio performance, allowing coverage for all seats
