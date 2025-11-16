@@ -27,11 +27,11 @@ link "Gale Opposing Viewpoints" found in document "HSTAT Library Links" Google s
     * internal and external communication
       * sharing of information, photos, and videos
       * facilitates and organizes the organization of work such as the logistics and coordination
-  * allow to coordinate the life of the company and the planning of tasks
+   * allow to coordinate the life of the company and the planning of tasks
       * plan reshearsals suitable for the corresponding actors
       * helps with centralizing contracts between the actors and company
       * easier to update and edit script for everyone
-  * reading of text integrated to the app
+   * reading of text integrated to the app
     * reading of theater scripts on mobile support, smartphone or tablet
     * insert photos, videos, audios and other files quickly and easily
     * share notes between the actors and the directing team
