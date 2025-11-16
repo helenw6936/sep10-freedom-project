@@ -9,7 +9,7 @@ Topic: **Performing Arts**
 ## Categories 
 #### Least complex: 
 * [Performing Arts Empire](https://apps.apple.com/sa/app/performing-arts-empire/id6745223804?uo=2)
-      * Easy to manage and keep track your Performing Arts Empire account which allow for booking available classes, events, and announcements through the app
+  * Easy to manage and keep track your Performing Arts Empire account which allow for booking available classes, events, and announcements through the app.
 #### Mildly complex:
 #### Most complex:
 * Went to link "Gale Opposing Viewpoints" found in document "HSTAT Library Links"
