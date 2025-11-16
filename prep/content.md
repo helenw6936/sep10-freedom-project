@@ -7,7 +7,9 @@ Topic: **Performing Arts**
 * These contents will help with the development of my performing arts website allowing me to gather informations and details using the internet to take in how and what technology has done in different ways to help with performances in many aspects.
 
 ## Categories 
-#### Least complex:
+#### Least complex: 
+* [Performing Arts Empire](https://apps.apple.com/sa/app/performing-arts-empire/id6745223804?uo=2)
+      * Easy to manage and keep track your Performing Arts Empire account which allow for booking available classes, events, and announcements through the app
 #### Mildly complex:
 #### Most complex:
 * Went to link "Gale Opposing Viewpoints" found in document "HSTAT Library Links"
@@ -35,9 +37,6 @@ Topic: **Performing Arts**
           * insert photos, videos, audios and other files quickly and easily
           * share notes between the actors and the directing team
           * modern intuitive tool, easy to use and more ecological
-  * [Performing Arts Empire](https://apps.apple.com/sa/app/performing-arts-empire/id6745223804?uo=2)
-      * easy for you to manage and keep track your Performing Arts Empire account
-      * book available classes, events, and announcements through the app
 * Hardware performing arts technology: performing arts sound amplification device
   * [Electro-Voice](https://www.electrovoice.com/applications/performing-arts/)
     * advances the audio performance, allowing coverage for all seats
