@@ -15,7 +15,6 @@ link "Gale Opposing Viewpoints" found in document "HSTAT Library Links" Google s
   * [Encore+ app official website](https://www.encoreplus.app/accessible-performances/)
     * Encore+ is a mobile-first web app that allows people to access services that are offered to by many performing arts organizations such as wheelchair-accessible seating, sensory-friendly, interpretive services, etc.
     * it includes digital programs, event information, advertising, and cast/crew details which makes it easier access to information about the shows than traditional printing.
-! https://www.encoreplus.app/author/encore/
 #### Mildly complex:
 * [Dramarts](https://www.dramarts.com/landing) is a productive app that allows easier access to schedules, script editing, and communications specially made for theatre.
    * internal and external communication allows for sharing of information, photos, and videos and facilitates and organizes the organization of work such as the logistics and coordination.
