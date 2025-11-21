@@ -15,27 +15,27 @@ link "Gale Opposing Viewpoints" found in document "HSTAT Library Links" Google s
   * [Encore+ app official website](https://www.encoreplus.app/accessible-performances/)
     * Encore+ is a mobile-first web app that allows people to access services that are offered to by many performing arts organizations such as wheelchair-accessible seating, sensory-friendly, interpretive services, etc.
     * it includes digital programs, event information, advertising, and cast/crew details which makes it easier access to information about the shows than traditional printing.
-[Image](https://www.encoreplus.app/content/images/2024/07/encore-icon.png)
+![](https://www.encoreplus.app/content/images/2024/07/encore-icon.png)
 #### Mildly complex:
 * [Dramarts](https://www.dramarts.com/landing) is a productive app that allows easier access to schedules, script editing, and communications specially made for theatre.
    * internal and external communication allows for sharing of information, photos, and videos and facilitates and organizes the organization of work such as the logistics and coordination.
    * allow to coordinate the life of the company and the planning of tasks like plan reshearsals suitable for the corresponding actors and helps with centralizing contracts between the actors and company, its easier to update and edit script for everyone.
    * reading of text integrated to the app, reading of theater scripts on mobile support, smartphone or tablet. Can insert photos, videos, audios and other files quickly and easily, allows allows for sharing notes between the actors and the directing team and uses a modern intuitive tool, easy to use and more ecological way.
 Hardware performing arts technology: performing arts sound amplification device.
-[Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7SeFkMVBztrU1lEJ0_Swg7NegQoeaQp99TA&s)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7SeFkMVBztrU1lEJ0_Swg7NegQoeaQp99TA&s)
 * [Electro-Voice](https://www.electrovoice.com/applications/performing-arts/) advances the audio performance, allowing coverage for all seats at high speech intelligibility, clean natural sound mix for music and voices.
     * [System solution](https://www.youtube.com/watch?v=CljahXm_MVk&t=2s) blends into the architecture while filling the room with superior audio quality with ranges of choices to precisely bring top-tier audio performance to audience-centered spaces of every size and shape.
-[Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP_7xN45EHR45Sm7zH7RF-s6CMPIa-lWU1NA&s)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP_7xN45EHR45Sm7zH7RF-s6CMPIa-lWU1NA&s)
 #### Most complex:
   * Projection Mapping uses a projector, sensors, and trackers to create a immersive and cost-effective visual experiences and adds depth, animation, and optical illusions to sets without requiring extensive physical construction
     * [project mapping](https://www.youtube.com/watch?v=5oOAoKk6gww&t=22s)
     * [projection mapping](https://www.heavym.net/unveiling-the-art-of-projection-design-theater-use-case/)
-[Image](https://www.heavym.net/wp-content/smush-webp/2021/04/Video-mapping-article-cover.jpg.webp)
+![](https://www.heavym.net/wp-content/smush-webp/2021/04/Video-mapping-article-cover.jpg.webp)
   * Virtual Reality creates immersive experiences for audiences and provide unique training tools for performers which enable new forms of interactivity
     * [Virtual Reality](https://www.youtube.com/watch?v=xgHUYbNDSrI&t=389s)
     * [VR and AR](https://amt-lab.org/blog/2021/8/how-vr-and-ar-are-changing-the-world-of-immersive-theater)
     * [VR tricks](youtube.com/watch?time_continue=1&v=ybyib5pAq7Y&embeds_referring_euri=https%3A%2F%2Famt-lab.org%2F)
-[Image](https://images.squarespace-cdn.com/content/v1/51d98be2e4b05a25fc200cbc/1553800014121-0KBFKVLD04CTKYNUHCAI/Special+effects+pic+-+Guidizio+Universale.jpg)
+![](https://images.squarespace-cdn.com/content/v1/51d98be2e4b05a25fc200cbc/1553800014121-0KBFKVLD04CTKYNUHCAI/Special+effects+pic+-+Guidizio+Universale.jpg)
    
 ## Part B: possible future technology
 * Idea
