@@ -22,6 +22,7 @@ link "Gale Opposing Viewpoints" found in document "HSTAT Library Links" Google s
    * allow to coordinate the life of the company and the planning of tasks like plan reshearsals suitable for the corresponding actors and helps with centralizing contracts between the actors and company, its easier to update and edit script for everyone.
    * reading of text integrated to the app, reading of theater scripts on mobile support, smartphone or tablet. Can insert photos, videos, audios and other files quickly and easily, allows allows for sharing notes between the actors and the directing team and uses a modern intuitive tool, easy to use and more ecological way.
 Hardware performing arts technology: performing arts sound amplification device.
+
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7SeFkMVBztrU1lEJ0_Swg7NegQoeaQp99TA&s)
 * [Electro-Voice](https://www.electrovoice.com/applications/performing-arts/) advances the audio performance, allowing coverage for all seats at high speech intelligibility, clean natural sound mix for music and voices.
     * [System solution](https://www.youtube.com/watch?v=CljahXm_MVk&t=2s) blends into the architecture while filling the room with superior audio quality with ranges of choices to precisely bring top-tier audio performance to audience-centered spaces of every size and shape.
