@@ -39,5 +39,20 @@ Hardware performing arts technology: performing arts sound amplification device.
 ![](https://images.squarespace-cdn.com/content/v1/51d98be2e4b05a25fc200cbc/1553800014121-0KBFKVLD04CTKYNUHCAI/Special+effects+pic+-+Guidizio+Universale.jpg)
    
 ## Part B: possible future technology
-* Idea
-  * Detail
+* Lines memorizer 
+  * Using ai and speaker (Like Alexa)
+  * Allows actors to choose scene and line for the speaker to play
+  * This allows the actor to listen to line recordings during their spare time or doing something to make it easier to memorize
+  * Can play song needed to sing in the play
+  * Reduces stress and burnout
+  * Could record lines using their own voice to add on emotions
+  * Can use a recording of another character to help with rehearsing lines
+  * If the lines wrong it would replay the characters previous line to restart 
+* Floor lighting spots
+  * The different censors can be in different section under the stage
+  * Uses buttons and computer to choose shape and color of the light on that sector of the floor
+  * This allows different spots of the floor light to turn on
+  * Can be used to create a more immerse and dramatic affect on the floor of the stage such as when the actors are walking without
+  * need to shine a spotlight
+  * Attach under the floor by connecting it to a system of wires underneath the floor areas
+
