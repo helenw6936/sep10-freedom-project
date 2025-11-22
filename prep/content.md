@@ -38,9 +38,8 @@ Hardware performing arts technology: performing arts sound amplification device.
     * [projection mapping](https://www.heavym.net/unveiling-the-art-of-projection-design-theater-use-case/)
 
 ![](https://www.heavym.net/wp-content/smush-webp/2021/04/Video-mapping-article-cover.jpg.webp)
-  * Virtual Reality creates immersive experiences for audiences and provide unique training tools for performers which enable new forms of interactivity and VR theatre pieces that put the audience inside the story.
-  *  AR overlays for live shows, interactive, and sensory effects that transcend physical limitations. In productions that blend live actors with VR headsets for audience members or use AR to add digital elements to a physical stage 
-    * [Virtual Reality](https://www.youtube.com/watch?v=xgHUYbNDSrI&t=389s)
+  * Virtual Reality creates immersive experiences for audiences and provide unique training tools for performers which enable new forms of interactivity and VR theatre pieces that put the audience inside the story. AR overlays for live shows, interactive, and sensory effects that transcend physical limitations. In productions that blend live actors with VR headsets for audience members or use AR to add digital elements to a physical stage
+    * Virtual Reality](https://www.youtube.com/watch?v=xgHUYbNDSrI&t=389s)
     * [VR and AR](https://amt-lab.org/blog/2021/8/how-vr-and-ar-are-changing-the-world-of-immersive-theater)
     * [VR tricks](youtube.com/watch?time_continue=1&v=ybyib5pAq7Y&embeds_referring_euri=https%3A%2F%2Famt-lab.org%2F)
 
