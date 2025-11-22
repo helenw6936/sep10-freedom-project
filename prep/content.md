@@ -26,6 +26,7 @@ Hardware performing arts technology: performing arts sound amplification device.
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7SeFkMVBztrU1lEJ0_Swg7NegQoeaQp99TA&s)
 * [Electro-Voice](https://www.electrovoice.com/applications/performing-arts/) advances the audio performance, allowing coverage for all seats at high speech intelligibility, clean natural sound mix for music and voices.
+  * manufacturer of audio equipment, including microphones, amplifiers, and loudspeakers, focused on pro audio applications such as sound reinforcement and commercial and residential audiovisual installations.
     * [System solution](https://www.youtube.com/watch?v=CljahXm_MVk&t=2s) blends into the architecture while filling the room with superior audio quality with ranges of choices to precisely bring top-tier audio performance to audience-centered spaces of every size and shape.
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP_7xN45EHR45Sm7zH7RF-s6CMPIa-lWU1NA&s)
