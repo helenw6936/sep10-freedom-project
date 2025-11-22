@@ -6,8 +6,8 @@ Topic: **Performing Arts**
 * Performing arts can advance with the help of technology being incorporated into it. Using technology, it can make it easier for actors to communicate together and access more information about the performance but also for the viewers to reach out abut the show and special accommodations they might need. This can help with the experience for both the actors but also the audience with more such as visuals effects brought by technology.
 * These contents will help with the development of my performing arts website allowing me to gather informations and details using the internet to take in how and what technology has done in different ways to help with performances in many aspects.
   
-# Contemporary Technology in Performing Arts
-## Categories 
+## Contemporary Technology in Performing Arts
+### Categories 
 #### Least complex: 
 link "Gale Opposing Viewpoints" found in document "HSTAT Library Links" Google search: "Performing arts technology apps"
 * [Performing Arts Empire](https://apps.apple.com/sa/app/performing-arts-empire/id6745223804?uo=2)
@@ -46,7 +46,7 @@ Hardware performing arts technology: performing arts sound amplification device.
 
 ![](https://images.squarespace-cdn.com/content/v1/51d98be2e4b05a25fc200cbc/1553800014121-0KBFKVLD04CTKYNUHCAI/Special+effects+pic+-+Guidizio+Universale.jpg)
    
-# Avant-garde in the Future of Performing Arts
+## Avant-garde in the Future of Performing Arts
 * Lines memorizer 
   * Using ai and speaker (Like Alexa)
   * Allows actors to choose scene and line for the speaker to play
