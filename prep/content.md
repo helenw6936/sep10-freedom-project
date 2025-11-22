@@ -31,6 +31,7 @@ Hardware performing arts technology: performing arts sound amplification device.
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP_7xN45EHR45Sm7zH7RF-s6CMPIa-lWU1NA&s)
 #### Most complex:
   * Projection Mapping uses a projector, sensors, and trackers to create a immersive and cost-effective visual experiences and adds depth, animation, and optical illusions to sets without requiring extensive physical construction
+    * Designers use specialized software to create digital content and a 3D model of the physical space or objects can be integrated with live performances, syncing with the action on stage, sometimes even projecting onto moving actors through the use of augmented reality techniques without physical set changes.
     * [project mapping](https://www.youtube.com/watch?v=5oOAoKk6gww&t=22s)
     * [projection mapping](https://www.heavym.net/unveiling-the-art-of-projection-design-theater-use-case/)
 
