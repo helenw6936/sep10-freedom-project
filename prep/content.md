@@ -32,13 +32,13 @@ Hardware performing arts technology: performing arts sound amplification device.
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP_7xN45EHR45Sm7zH7RF-s6CMPIa-lWU1NA&s)
 #### Most complex:
-  * Projection Mapping uses a projector, sensors, and trackers to create a immersive and cost-effective visual experiences and adds depth, animation, and optical illusions to sets without requiring extensive physical construction
+  * Projection Mapping uses a projector, sensors, and trackers to create a immersive and cost-effective visual experiences and adds depth, animation, and optical illusions to sets without requiring extensive physical construction.
     * Designers use specialized software to create digital content and a 3D model of the physical space or objects can be integrated with live performances, syncing with the action on stage, sometimes even projecting onto moving actors through the use of augmented reality techniques without physical set changes.
     * [project mapping](https://www.youtube.com/watch?v=5oOAoKk6gww&t=22s)
     * [projection mapping](https://www.heavym.net/unveiling-the-art-of-projection-design-theater-use-case/)
 
 ![](https://www.heavym.net/wp-content/smush-webp/2021/04/Video-mapping-article-cover.jpg.webp)
-  * Virtual Reality creates immersive experiences for audiences and provide unique training tools for performers which enable new forms of interactivity and VR theatre pieces that put the audience inside the story. AR overlays for live shows, interactive, and sensory effects that transcend physical limitations. In productions that blend live actors with VR headsets for audience members or use AR to add digital elements to a physical stage
+  * Virtual Reality creates immersive experiences for audiences and provide unique training tools for performers which enable new forms of interactivity and VR theatre pieces that put the audience inside the story. AR overlays for live shows, interactive, and sensory effects that transcend physical limitations. In productions that blend live actors with VR headsets for audience members or use AR to add digital elements to a physical stage.
     * [Virtual Reality](https://www.youtube.com/watch?v=xgHUYbNDSrI&t=389s)
     * [VR and AR](https://amt-lab.org/blog/2021/8/how-vr-and-ar-are-changing-the-world-of-immersive-theater)
     * [VR tricks](youtube.com/watch?time_continue=1&v=ybyib5pAq7Y&embeds_referring_euri=https%3A%2F%2Famt-lab.org%2F)
@@ -47,14 +47,9 @@ Hardware performing arts technology: performing arts sound amplification device.
    
 ## Avant-garde in the Future of Performing Arts
 * Lines memorizer 
-  * Using ai and speaker (Like Alexa)
-  * Allows actors to choose scene and line for the speaker to play
-  * This allows the actor to listen to line recordings during their spare time or doing something to make it easier to memorize
-  * Can play song needed to sing in the play
-  * Reduces stress and burnout
-  * Could record lines using their own voice to add on emotions
-  * Can use a recording of another character to help with rehearsing lines
-  * If the lines wrong it would replay the characters previous line to restart 
+  * Using ai and speaker (Like Alexa) that allows actors to choose scene and line for the speaker to play from their own recording of lines and scenes to add emotions and contrast.
+  * IT allows the actor to listen to line recordings and songs needed to be sung in the performance during their spare time or doing something to make it easier to memorize, reducing stress and burnout.
+  * Can use a recording of another character to help with rehearsing lines and it would replay the characters previous line to restart if they got the line wrong in that scene.
 * Floor lighting spots
   * The different censors can be in different section under the stage
   * Uses buttons and computer to choose shape and color of the light on that sector of the floor
