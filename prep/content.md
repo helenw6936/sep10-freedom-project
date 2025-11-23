@@ -54,5 +54,5 @@ Hardware performing arts technology: performing arts sound amplification device.
 * Floor lighting spots
   * tiny floors lights that can be attached under the floor by connecting it to a system of wires underneath the stages areas with different censors under different section under the stage.
   * Attach under the floor by connecting it to a system of wires underneath the floor areas, using buttons and computer to choose shape and color of the light on that sector of the floor, this allows different spots of the floor light to turn on.
-  * Can be used to create a more immerse and dramatic affect on the floor of the stage such as when the actors are walking without need to shine a spotlight
+  * Can be used to create a more immerse and dramatic affect on the floor of the stage such as when the actors are walking without need to shine a spotlight and be especially helpful for those who does a lot of filming.
 
