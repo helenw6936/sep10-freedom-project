@@ -46,7 +46,8 @@ Hardware performing arts technology: performing arts sound amplification device.
 ![](https://images.squarespace-cdn.com/content/v1/51d98be2e4b05a25fc200cbc/1553800014121-0KBFKVLD04CTKYNUHCAI/Special+effects+pic+-+Guidizio+Universale.jpg)
    
 ## Avant-garde in the Future of Performing Arts
-* Lines memorizer 
+* Lines memorizer
+  * a pocketsize tiny speaker can be connected to a phone, headphones, or watch and is very easy to carry around everywere or to outside.
   * Using ai and speaker (Like Alexa) that allows actors to choose scene and line for the speaker to play from their own recording of lines and scenes to add emotions and contrast.
   * IT allows the actor to listen to line recordings and songs needed to be sung in the performance during their spare time or doing something to make it easier to memorize, reducing stress and burnout.
   * Can use a recording of another character to help with rehearsing lines and it would replay the characters previous line to restart if they got the line wrong in that scene.
