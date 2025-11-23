@@ -52,10 +52,7 @@ Hardware performing arts technology: performing arts sound amplification device.
   * IT allows the actor to listen to line recordings and songs needed to be sung in the performance during their spare time or doing something to make it easier to memorize, reducing stress and burnout.
   * Can use a recording of another character to help with rehearsing lines and it would replay the characters previous line to restart if they got the line wrong in that scene.
 * Floor lighting spots
-  * The different censors can be in different section under the stage
-  * Uses buttons and computer to choose shape and color of the light on that sector of the floor
-  * This allows different spots of the floor light to turn on
-  * Can be used to create a more immerse and dramatic affect on the floor of the stage such as when the actors are walking without
-  * need to shine a spotlight
-  * Attach under the floor by connecting it to a system of wires underneath the floor areas
+  * tiny floors lights that can be attached under the floor by connecting it to a system of wires underneath the stages areas with different censors under different section under the stage.
+  * Attach under the floor by connecting it to a system of wires underneath the floor areas, using buttons and computer to choose shape and color of the light on that sector of the floor, this allows different spots of the floor light to turn on.
+  * Can be used to create a more immerse and dramatic affect on the floor of the stage such as when the actors are walking without need to shine a spotlight
 
