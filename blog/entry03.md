@@ -1,7 +1,19 @@
 # Entry 3
 ##### 12/1/2025
 
-Text
+## Content
+
+
+
+## Sources
+
+
+
+## Engineering Deisgn Process 
+
+
+
+## Skills
 
 [Previous](entry02.md) | [Next](entry04.md)
 
