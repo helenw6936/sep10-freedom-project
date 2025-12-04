@@ -15,6 +15,7 @@ Some of my sources for my content for my website was taking inspiration of other
 Right now in my engineering design process, I am brainstorming and finalizing my content for my performing arts based freedom project website. Learning what can be useful and helpful to people in the future based on what is already existing in the world. My next step is to try and make visual presentations of these technologies so that I can enhance that idea by showing how it would look and work.
 
 ## Skills
+There are two very important skills that I learned from writing about how I brainstormed information, which is 
 
 [Previous](entry02.md) | [Next](entry04.md)
 
