@@ -19,7 +19,7 @@ There are two very important skills that I learned from writing about how I brai
 
 I have learned that it is important to think logically in this process because in order to make the future technology ideas that I come up with possible and to create models for, it is important that the goal is acheiveable. If something happens like the actor mistaking the line, then the speaker would replay that part again for correction, this would make the speaker actually useful when actors make mistakes which is really important to a good performance.
 
-I also learned that organization is also very important to make sure that my content and my website would make sense and not be all over the place. It shows how important good presentation is and different bullet points that is organized would be much better and easier to work with.
+I also learned that organization is also very important to make sure that my content and my website would make sense and not be all over the place. It shows how important good presentation is and different bullet points that is organized into sentences would be much better and easier would be to work with.
 
 [Previous](entry02.md) | [Next](entry04.md)
 
