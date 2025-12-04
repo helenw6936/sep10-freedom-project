@@ -9,7 +9,7 @@ I first wanted to search up problems that are in the entertainment industry to g
 I finalized all of my content to get ready for my website by making sure that I have enough information in my part A categories along with the images and enough brainstorms for my part B. I organized my bullet points into one bullet point if they have similar ideas that I can combine into one sentence. 
 
 ## Sources
-Some of my sources for my content for my website was taking inspiration of other previous students websites. For example, I looked at many website that was made by previous students such as [Anna](https://annad2694.github.io/sep10-freedom-project/)'s project where it gave me inspiration on stages, visuals, and filming for my future technology. [Angela](https://angelal4844.github.io/sep10-freedom-project/index.html)'s and [Junjie](https://junjiel4616.github.io/sep10-freedom-project/)'s website gave me inspiration on future technology and detail that I could include in my part B for my website.
+Some of my sources for my content for my website was taking inspiration of other previous students websites. For example, I looked at many website that was made by previous students such as [Anna](https://annad2694.github.io/sep10-freedom-project/)'s project where it gave me inspiration on stages, visuals, and filming for my future technology. [Angela](https://angelal4844.github.io/sep10-freedom-project/index.html)'s and [Junjie](https://junjiel4616.github.io/sep10-freedom-project/)'s website gave me inspiration on future technology and details that I could include in my part B for my website.
 
 ## Engineering Deisgn Process 
 
