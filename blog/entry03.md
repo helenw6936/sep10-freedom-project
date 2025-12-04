@@ -11,8 +11,8 @@ I finalized all of my content to get ready for my website by making sure that I 
 ## Sources
 Some of my sources for my content for my website was taking inspiration of other previous students websites. For example, I looked at many website that was made by previous students such as [Anna](https://annad2694.github.io/sep10-freedom-project/)'s project where it gave me inspiration on stages, visuals, and filming for my future technology. [Angela](https://angelal4844.github.io/sep10-freedom-project/index.html)'s and [Junjie](https://junjiel4616.github.io/sep10-freedom-project/)'s website gave me inspiration on future technology and details that I could include in my part B for my website.
 
-## Engineering Deisgn Process 
-
+## Engineering Design Process 
+Right now in my engineering design process, I am brainstorming and finalizing my content for my performing arts based freedom project website. Learning what can be useful and helpful to people in the future based on what is already existing in the world. My next step is to try and make visual presentations of these technologies so that I can enhance that idea by showing how it would look and work.
 
 ## Skills
 
