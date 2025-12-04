@@ -15,7 +15,9 @@ Some of my sources for my content for my website was taking inspiration of other
 Right now in my engineering design process, I am brainstorming and finalizing my content for my performing arts based freedom project website. Learning what can be useful and helpful to people in the future based on what is already existing in the world. My next step is to try and make visual presentations of these technologies so that I can enhance that idea by showing how it would look and work.
 
 ## Skills
-There are two very important skills that I learned from writing about how I brainstormed information, which is 
+There are two very important skills that I learned from writing about how I brainstormed information, which is _logical reasoning_ and _organization_.
+
+I have learned that it is important to think logically in this process because in order to make the future technology ideas that I come up with possible and to create models for, it is important that the goal is acheiveable. If something happens like the actor mistaking the line, then the speaker would replay that part again for correction, this would make the speaker actually useful when actors make mistakes which is really important to a good performance.
 
 [Previous](entry02.md) | [Next](entry04.md)
 
