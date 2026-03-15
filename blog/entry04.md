@@ -2,7 +2,7 @@
 ##### 3/14/26
 
 ## Content
-The tool that I decided to pick to use for my freedom project was materialize. My top option was Aframe but after tinkering with it, I realized that it wasnt suited for me. With choosing materialize, tinkering with it is very important and so I tinkered with it in Js Bin. I decided to make something after adding materialize:
+The tool that I decided to pick to use for my freedom project was materialize. My top option was Aframe but after tinkering with it, I realized that it wasnt suited for me. With choosing materialize, tinkering with it is very important and so I tinkered with it in Js Bin with many things materialize had to offer. I decided to make something after adding materialize:
 ```html
 <!DOCTYPE html>
   <html>
