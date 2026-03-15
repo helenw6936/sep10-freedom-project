@@ -41,6 +41,7 @@ Youtube was one of the best source for me to help me decide to go with materiali
 
 ## Skills
 _Learning on my own_ and a _growth mindset_ was two really important skills that I had learned while tinkering with my chosen tool.
+
 [Previous](entry03.md) | [Next](entry05.md)
 
 [Home](../README.md)
