@@ -7,7 +7,7 @@
 ### 3/16/26:
 * https://materializecss.com/
 * https://youtu.be/gCZ3y6mQpW0?si=lglszeGlIHVGxA4B
-* ```html
+```html
   <!DOCTYPE html>
   <html>
     <head>
