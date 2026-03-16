@@ -6,8 +6,22 @@
 
 ### 3/16/26:
 * https://materializecss.com/
-* https://youtu.be/gCZ3y6mQpW0?si=lglszeGlIHVGxA4B 
+* https://youtu.be/gCZ3y6mQpW0?si=lglszeGlIHVGxA4B
+* ```html
+  <!DOCTYPE html>
+  <html>
+    <head>
+      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+      <title>Materialize sandbox</title>
+    </head>
 
+    <body>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    </body>
+  </html>
+```
 ### X/X/XX:
 * Text
 
