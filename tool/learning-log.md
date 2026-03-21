@@ -24,6 +24,7 @@
     </body>
   </html>
 ```
+* next loyo: explore colors
 ### X/X/XX:
 * Text
 
