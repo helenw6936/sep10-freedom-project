@@ -32,8 +32,8 @@
 ```
 ```html
   <p class="red-text text-darken-4">This text is red darken.</p>
-<div class="blue lighten-5">
-    <span class="blue-text text-darken-2">This span has blue darken text.</span>
+<div class="purple lighten-5">
+    <span class="blue-text text-darken-2">This span has purple lighten text.</span>
 </div>
 ```
 * next loyo: explore colors
