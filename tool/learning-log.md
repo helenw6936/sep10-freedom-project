@@ -24,6 +24,10 @@
     </body>
   </html>
 ```
+* Circle image
+```html
+  <img src=https://www.thepublicdiscourse.com/wp-content/uploads/2021/02/AdobeStock_57390451.jpeg" class= "responsive-img circle">
+```
 * next loyo: explore colors
 ### X/X/XX:
 * Text
