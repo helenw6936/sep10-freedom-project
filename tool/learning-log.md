@@ -49,6 +49,12 @@
     <span class="blue-text text-darken-2">This is a card panel with dark blue text</span>
   </div>
 ```
+* using css for color change
+```css
+  .ilike-blue-container {
+    @extend .blue, .lighten-4;
+  }
+```
 
 <!-- 
 * Links you used today (websites, videos, etc)
