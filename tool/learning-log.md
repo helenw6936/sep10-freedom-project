@@ -39,6 +39,7 @@
 ```
 * next loyo: explore colors
 ### 3/23/26:
+* to apply background color (has lighten and darken class)
 ```html
 <div class="card-panel teal lighten-2">This is a card panel with a teal lighten-2 class</div>
 ```
