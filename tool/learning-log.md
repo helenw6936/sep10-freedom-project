@@ -43,7 +43,12 @@
 ```html
 <div class="card-panel teal lighten-2">This is a card panel with a teal lighten-2 class</div>
 ```
-
+* to apply text color
+```html
+  <div class="card-panel">
+    <span class="blue-text text-darken-2">This is a card panel with dark blue text</span>
+  </div>
+```
 
 <!-- 
 * Links you used today (websites, videos, etc)
