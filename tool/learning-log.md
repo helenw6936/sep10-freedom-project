@@ -55,7 +55,22 @@
     @extend .blue, .lighten-4;
   }
 ```
-
+* applying both of color background and text change
+```html
+  <!DOCTYPE html>
+  <html>
+    <head>
+      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+      <title>Materialize sandbox</title>
+    </head>
+    <body>
+<div class="card-panel pink lighten-2 green-text text-lighten-2">This is a card panel with a teal lighten-2 class</div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    </body>
+  </html>
+```
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
