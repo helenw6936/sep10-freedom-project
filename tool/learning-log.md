@@ -90,6 +90,7 @@
       <p class="z-depth-5">z-depth-5</p>
     </div>
 ```
+* next yolo: collections component
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
