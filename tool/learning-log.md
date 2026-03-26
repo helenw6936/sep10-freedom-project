@@ -71,6 +71,7 @@
     </body>
   </html>
 ```
+* can you use more than one hex color in the same class?
 * shadow effect by adding a class="z-depth-2"
 ```html
    <div class="col s12 m2">
