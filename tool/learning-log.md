@@ -94,8 +94,8 @@
 * next yolo: collections component
 
 ### 3/30/26
-* https://youtu.be/izCYfmJww-s?si=uHOFUsuLHDkQVPCW
-
+* https://youtu.be/izCYfmJww-s?si=uHOFUsuLHDkQVPCW\
+* collection is a component allows for group to list objects together
 
 
 <!-- 
