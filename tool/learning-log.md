@@ -157,6 +157,15 @@
   </ul>
 ```
 * you can put collections classes within collections classes!!
+* animated (indeterminate) preloader
+```html
+ <div class="progress">
+      <div class="indeterminate"></div>
+  </div>
+```
+
+
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
