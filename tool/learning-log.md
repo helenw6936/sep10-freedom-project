@@ -155,8 +155,8 @@
       <a href="#!" class="secondary-content"><i class="material-icons">grade</i></a>
     </li>
   </ul>
-          
 ```
+* you can put collections within collections!!
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
