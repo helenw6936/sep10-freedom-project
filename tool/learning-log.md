@@ -156,7 +156,7 @@
     </li>
   </ul>
 ```
-* you can put collections within collections!!
+* you can put collections classes within collections classes!!
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
