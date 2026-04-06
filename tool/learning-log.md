@@ -97,6 +97,7 @@
 * https://youtu.be/izCYfmJww-s?si=uHOFUsuLHDkQVPCW\
 * https://youtu.be/4S1zHXVH7Dk?si=iS5qHbjaVe9d-ngA
 * collection is a component allows for group to list objects together
+* collection is a class
 
 
 <!-- 
