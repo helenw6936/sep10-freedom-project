@@ -98,7 +98,26 @@
 * https://youtu.be/4S1zHXVH7Dk?si=iS5qHbjaVe9d-ngA
 * collection is a component allows for group to list objects together
 * collection is a class
-
+```html
+    <!DOCTYPE html>
+  <html>
+    <head>
+      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+      <title>Materialize sandbox</title>
+    </head>
+    <body>
+      <div class="collection">
+        <a href="#!" class="collection-item">Mueller</a>
+        <a href="#!" class="collection-item active">Muoller</a>
+        <a href="#!" class="collection-item">Muller</a>
+        <a href="#!" class="collection-item">Muellerr</a>
+      </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    </body>
+  </html>
+```
 
 <!-- 
 * Links you used today (websites, videos, etc)
