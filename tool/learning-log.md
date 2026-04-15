@@ -182,8 +182,8 @@
   <a id="scale-demo" href="#!" class="btn-floating btn-large scale-transition scale-out">
     <i class="material-icons">add</i>
   </a>
-
 ```
+* button fades in and out 
 
 
 <!-- 
