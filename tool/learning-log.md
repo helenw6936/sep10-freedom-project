@@ -165,7 +165,7 @@
 ```
 * Next yolo: explore more of the preloader in materialize
 
-### 14/15/2026
+### 4/15/2026
 * Day 1: Explore the CSS component of transitions that materialize has to offer to use in my freedom project to have a smoother transition and add animation. Testing it out by watching youtube tutorials and work it in JSbin.
 * Day 2: Learn about cards in materialize to make it easier for me to organize small ideas in my freedom project using those cards. Use the tutorial and explanation from materialize.
 * Day 3: Learn icons in materialize to showcase the different websites and their icon that was researched about and can reference to in the freedom project. Using youtube to help me navigate.
