@@ -224,6 +224,26 @@
 * https://youtu.be/bO3S4u47YsY?si=RTsJ0VqM5bJrsPRA
 * https://youtu.be/Bu_Nc0knIa0?si=Zv35EufBLPx7PrdJ
 
+### 4/17/2026
+* in order to use icon, this has to be on the head of html
+```html
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+```
+* to add icons
+```css
+ <i class="material-icons">add</i>
+```
+* sample code to change size
+```css
+  <!--
+  Sizes:
+  tiny: 1rem
+  small: 2rem
+  medium: 4rem
+  large: 6rem
+  -->
+  <i class="large material-icons">insert_chart</i>
+```
 
 
 
