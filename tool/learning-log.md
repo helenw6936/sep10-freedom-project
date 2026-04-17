@@ -225,6 +225,7 @@
 * https://youtu.be/Bu_Nc0knIa0?si=Zv35EufBLPx7PrdJ
 
 ### 4/17/2026
+* https://youtu.be/V4-LqqK0L6o?si=gcj6y9YugiK9z7mh
 * in order to use icon, this has to be on the head of html
 ```html
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
