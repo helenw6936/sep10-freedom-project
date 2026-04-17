@@ -205,6 +205,7 @@
   </div>
 ```
 * can change the class to add images, links, or more texts fab popup
+* class can also change the size
 
 <!-- 
 * Links you used today (websites, videos, etc)
