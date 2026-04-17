@@ -190,7 +190,7 @@
 ```css
   <div class="row">
     <div class="col s12 m6">
-      <div class="card blue-grey darken-1">
+      <div class="card blue-grey lighten-1">
         <div class="card-content white-text">
           <span class="card-title">Card Title</span>
           <p>I am a very simple card. I am good at containing small bits of information.
@@ -206,6 +206,21 @@
 ```
 * can change the class to add images, links, or more texts fab popup
 * class can also change the size
+```css
+  <div class="card">
+    <div class="card-image waves-effect waves-block waves-light">
+      <img class="activator" src="images/office.jpg">
+    </div>
+    <div class="card-content">
+      <span class="card-title activator blue-text text-lighten-4">Card Title<i class="material-icons right">more_vert</i></span>
+      <p><a href="#">Many links</a></p>
+    </div>
+    <div class="card-reveal">
+      <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+      <p>Here is some more information about this product that is only revealed once clicked on.</p>
+    </div>
+  </div>
+```
 
 <!-- 
 * Links you used today (websites, videos, etc)
