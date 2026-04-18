@@ -183,7 +183,8 @@
     <i class="material-icons">add</i>
   </a>
 ```
-* button fades in and out 
+* button fades in and out
+* https://youtu.be/tNTMvKm1Fe8?si=2zZzpah5P6a8-ste
 
 ### 4/16/2026
 * simple card example with links
