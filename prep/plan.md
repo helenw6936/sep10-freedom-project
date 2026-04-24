@@ -19,7 +19,7 @@
 
 #### MVP
 
-* [Task/Timeline](https://getbootstrap.com/docs/5.3/layout/columns/#order-classes)
+* [ordering class](https://getbootstrap.com/docs/5.3/layout/columns/#order-classes)
 
 ---
 
