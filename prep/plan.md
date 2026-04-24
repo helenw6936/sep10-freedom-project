@@ -14,6 +14,7 @@
 
 ## Fonts
 * [Caveat](https://fonts.google.com/specimen/Caveat?preview.text=hey%20h&specimen.preview.text=hey+h)
+* [Caveat Brush](https://fonts.google.com/specimen/Caveat+Brush?preview.text=hey%20h&specimen.preview.text=hey+h&query=caveat&preview.script=Latn)
 
 ## Timeline
 
