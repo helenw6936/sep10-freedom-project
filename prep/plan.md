@@ -13,13 +13,14 @@
 * `#E7B6D4`
 
 ## Fonts
-* [Text](URL)
+* [Caveat](https://fonts.google.com/specimen/Caveat?preview.text=hey%20h&specimen.preview.text=hey+h)
 
 ## Timeline
 
 #### MVP
 
 * [ordering class](https://getbootstrap.com/docs/5.3/layout/columns/#order-classes)
+* icons 
 
 ---
 
