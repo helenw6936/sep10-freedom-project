@@ -58,7 +58,7 @@ Even the basic code setup of materialize:
 ```
 
 ## Sources
-
+There were many sources that I used to learn my tool matieralize such as the website of [materialize](https://materializecss.com/) that offer small explanations of it and the featueres it offers. But most important links I used that helped me a lot were youtube tutorials that gives examples of the codes, how to use them, and explanations that can either be lengthy or short which is really helpful. Some of those links include [Colors and Shadows](https://www.youtube.com/watch?v=leZx_3l5_Iw), [Collections](https://www.youtube.com/watch?v=4S1zHXVH7Dk), [Transition list items](https://www.youtube.com/watch?v=tNTMvKm1Fe8), etc.
 
 ## Skills
 
