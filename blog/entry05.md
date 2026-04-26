@@ -61,7 +61,7 @@ Even the basic code setup of materialize:
 There were many sources that I used to learn my tool matieralize such as the website of [materialize](https://materializecss.com/) that offer small explanations of it and the featueres it offers. But most important links I used that helped me a lot were youtube tutorials that gives examples of the codes, how to use them, and explanations that can either be lengthy or short which is really helpful. Some of those links include [Colors and Shadows](https://www.youtube.com/watch?v=leZx_3l5_Iw), [Collections](https://www.youtube.com/watch?v=4S1zHXVH7Dk), [Transition list items](https://www.youtube.com/watch?v=tNTMvKm1Fe8), etc.
 
 ## Skills
-Two very important skills that I had learned when learning my tool materialize was _time management_ and 
+Two very important skills that I had learned when learning my tool materialize was _time management_ and _organization_. Managing my time when writing this blog but also learning my tool day by day allowed me to not be overwhelmed or stressed and to turn in my assignments or learn my tool on time. as being part of the school musical and having the show day getting closer and closer, it subtracts time as I have to stay in rehearsal til 6pm everyday including saturday rehearsals so time mangement is crucial to get things done but also with my well being. Organizing is also important since it helps me organize what I have learned about my tool like in the learning log so that I can understand when or how to incoperate it into my freedom project and allowing me to find my learnings whenever I need it.
 
 [Previous](entry04.md) | [Next](entry06.md)
 
