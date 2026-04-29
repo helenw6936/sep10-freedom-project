@@ -1,8 +1,28 @@
+
+
+// <weight>: Use a value from 400 to 700
+// <uniquifier>: Use a unique and descriptive class name
+
+.caveat-<uniquifier> {
+  font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.caveat-brush-regular {
+  font-family: "Caveat Brush", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
 .nav-wrapper {
-    background-color: #D7C8E9 !important;
+    background-color: #E7B5D3 !important;
 
 }
 
 nav .brand-logo, nav ul a {
-    color: black !important!;
+    color: white !important;
 }
