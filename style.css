@@ -1,0 +1,8 @@
+.nav-wrapper {
+    background-color: #D7C8E9 !important;
+
+}
+
+nav .brand-logo, nav ul a {
+    color: black !important!;
+}
