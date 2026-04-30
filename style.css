@@ -1,9 +1,9 @@
 
 
-// <weight>: Use a value from 400 to 700
-// <uniquifier>: Use a unique and descriptive class name
+/* <weight>: Use a value from 400 to 700
+   <uniquifier>: Use a unique and descriptive class name */
 
-.caveat-<uniquifier> {
+.caveat-bold {
   font-family: "Caveat", cursive;
   font-optical-sizing: auto;
   font-weight: <weight>;
@@ -25,4 +25,5 @@
 
 nav .brand-logo, nav ul a {
     color: white !important;
+    font-size: 35px;
 }
