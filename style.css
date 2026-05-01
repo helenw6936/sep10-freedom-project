@@ -27,3 +27,20 @@ nav .brand-logo, nav ul a {
     color: white !important;
     font-size: 35px;
 }
+
+/* .image {
+  width: 10000px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+} */
+
+.bg-1 {
+  background-image: url("https://camo.githubusercontent.com/430d6cce7d3a3ff95a4b1ba04f6eb79594e843cf04fbf8043162bbf0dde22153/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3531643938626532653462303561323566633230306362632f313535333830303031343132312d304b42464b564c44303443544b594e55484341492f5370656369616c2b656666656374732b7069632b2d2b47756964697a696f2b556e6976657273616c652e6a7067");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 999px;
+}
+
+
