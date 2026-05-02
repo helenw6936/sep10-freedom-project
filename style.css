@@ -26,7 +26,7 @@
 
 nav .brand-logo, nav ul a {
     color: white !important;
-    font-size: 35px;
+        font-size: 35px;
 }
 
 /* .image {
@@ -58,4 +58,33 @@ nav .brand-logo, nav ul a {
 .image {
   width: 1520px;
   padding: 10px;
+}
+
+.complex {
+  color: #7CA1D9;
+  text-align: center;
+}
+
+
+
+.color {
+  font-size: 24px;
+  color: #7CA1D9;
+}
+
+.colors {
+  color: #E7B6D4;
+}
+
+.colorr {
+  font-size: 25px;
+  color: #E7B5D3;
+  margin: 20px;
+  padding: 20px;
+}
+
+.imagee {
+ display: block;
+  margin: auto;
+  width: 50%;
 }
