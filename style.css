@@ -8,6 +8,7 @@
   font-optical-sizing: auto;
   font-weight: <weight>;
   font-style: normal;
+  font-size: 30px;
 }
 
 .caveat-brush-regular {
@@ -43,4 +44,18 @@ nav .brand-logo, nav ul a {
   height: 999px;
 }
 
+.intro {
+  text-align: center;
+  color: #E7B6D4;
+}
 
+.margin {
+  margin: 10px;
+  padding: 10px;
+  color: #7CA1D9;
+}
+
+.image {
+  width: 1520px;
+  padding: 10px;
+}
