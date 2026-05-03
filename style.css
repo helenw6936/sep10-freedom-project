@@ -93,3 +93,9 @@ nav .brand-logo, nav ul a {
   text-align: center;
   color: #BEC3EA;
 }
+
+.size {
+  padding: 10px;
+  margin: 10px;
+  width: 1500px;
+}
