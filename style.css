@@ -88,3 +88,8 @@ nav .brand-logo, nav ul a {
   margin: auto;
   width: 50%;
 }
+
+.centerit {
+  text-align: center;
+  color: #BEC3EA;
+}
