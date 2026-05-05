@@ -42,7 +42,7 @@
 | -------- | ------- | ------- |
 | amy | I really enjoy the images, and the organization, and the buttons | A grow would be to make it responsive but other then that its good!! |
 | Fatema | i really like the color scheme which are blue, pink, and white i think it suits the website and it makes it look cute | I think you should make the navbar responsive because when its not in a computer screen its hard to go to part a and part b and make the images responsive but its really cute! |
-|  |  |  |
+| Henson | I like the formatting of your images and text as well as the fact you showed your text through an external image giving you a lot more customization on how it looks in your future technology | Make your images maybe smaller or responsive as well as because it looks good on 90% zoom, the navbars layout is sort of confusing, maybe add "active" to let the user know which link he's on.|
 |  |  |  |
 |  |  |  |
 
