@@ -18,8 +18,11 @@
 }
 
 .nav-wrapper {
-  background-color: #E7B5D3 !important;
+  background-color: white; !important;
+   height: 45px;
+   font-size: 24px;
 }
+
 nav
 .brand-logo, nav ul a{
  color: white !important; font-size: 35px;
