@@ -2,6 +2,7 @@
 ##### 5/9/26
 
 ## Content
+I made my MVP (minimum viable product) by setting up all of my bootstrap and materialize setup
 
 ## Source
 
