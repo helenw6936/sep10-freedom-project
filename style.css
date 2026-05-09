@@ -20,9 +20,11 @@
 .nav-wrapper {
   background-color: #E7B5D3 !important;
 }
-
 nav
-.brand-logo, nav ul a { color: white !important; font-size: 35px; }
+.brand-logo, nav ul a{
+ color: white !important; font-size: 35px;
+}
+
 
 /* .image {
   width: 10000px;
