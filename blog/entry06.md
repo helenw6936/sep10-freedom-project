@@ -2,7 +2,7 @@
 ##### 5/9/26
 
 ## Content
-I made my MVP (minimum viable product) by setting up all of my bootstrap and materialize setup
+I made my MVP (minimum viable product) by setting up all of my bootstrap and materialize setup along with my plan to be able to start coding my project
 
 ## Source
 
