@@ -12,6 +12,7 @@ There were many challenges and takeaways I came across when working on my MVP su
 The links that I used when making my MVP for my project was [Materialize](https://materializecss.com/) and [Bootstrap](https://getbootstrap.com/) since boostrap offered many components and the grid system to make my website responsive and I chose materialize css as my tool in the freedom project to enchance what I already have in my website and input the unique components it also offered such as the navbar and the cards.
 
 ## Engineering Design Process
+Right now in my engineering deisgn process, my current step is that I am almost done with creating my MVP and I just need to add boostrap grid to make my text, navbar, and images responsive when the website is being viewed on different screens. Then after that, my next steps is to go beyong MVP and to polish my website to make it look more enchanced with CSS.
 
 ## Skills
 
