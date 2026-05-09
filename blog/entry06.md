@@ -15,6 +15,7 @@ The links that I used when making my MVP for my project was [Materialize](https:
 Right now in my engineering deisgn process, my current step is that I am almost done with creating my MVP and I just need to add boostrap grid to make my text, navbar, and images responsive when the website is being viewed on different screens. Then after that, my next steps is to go beyong MVP and to polish my website to make it look more enchanced with CSS.
 
 ## Skills
+Two very important skills that I have learned when working on my MVP and the blog is _time management_ and _growth mindset_ as the being apart of the school play meant that there are a lot of time spent after school needing to go to rehearsal but also that means there are many other assignments that I also need to get done so being able to finish my MVP day by day and this blog to make the deadline is very important. Having and developing a growth mindset also plays a significant part as coding will never be easy and knowing not to give up or find a different solution or approach such as watching tutorials or asking a friend can help get the job done and not stress about something that can be fixed.
 
 [Previous](entry05.md) | [Next](entry07.md)
 
