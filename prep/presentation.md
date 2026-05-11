@@ -1,16 +1,21 @@
 # Presentation Plan
 
 ## Hook
-* 
+* Theatre originated from ancient Greek religious ceremonies involving goat skins and, shockingly, audiences applauded by stamping their feet, not clapping
 
 ## Product
-* 
+* scroll through website showcasing the home part a and b 
 
 ## Process
+* gather content, learn tools, create wireframe, paste the content, change layout
+* Part A: finding hardware and software thats usually behind the scenes so not many would hear of it
 * Part B: importance of lines from directors in beetlejuice and spongebob / spot light troubles
+* code snippet of cards used and image background
 
 ## Conclusion
-* 
+* url to project
+* takeaways: youtube tutorial is very helpful (helped me nagivate materialize and boostrap grid) and time mangement (theatre)
+* thank you
 
 <!-- EXAMPLE
 
