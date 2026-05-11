@@ -7,7 +7,7 @@
 * 
 
 ## Process
-* 
+* Part B: importance of lines from directors in beetlejuice and spongebob / spot light troubles
 
 ## Conclusion
 * 
