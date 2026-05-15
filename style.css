@@ -108,3 +108,7 @@ img {
   display: block;
 }
 
+.text-box {
+  padding: 2px 4px;
+  border-radius: 4px;
+}
