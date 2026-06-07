@@ -1,7 +1,16 @@
 # Entry 7
-##### X/X/XX
+##### 6/7/26
 
-Text
+## Content
+
+
+## Sources
+
+
+## Engineering Design Process
+
+
+## Skills
 
 [Previous](entry06.md) | [Next](entry08.md)
 
