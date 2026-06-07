@@ -11,6 +11,7 @@ I had planned my [presentation](prep/presentation.md) and what to say for the ho
 The last step in the engineering design process is to communicate and present my project to other people to make them aware of the technologies behind performing arts and the future that comes with it.
 
 ## Skills
+Two important skills that I learned from working on the freedom project and this blog is that _learning on your own_ and _having a growth mindset_ can really help me achieve something like making a new website by myself. Learning on my own has contributed a lot such as learning about my tool materialize on my own through watching youtube tutorials that really helped and testing it out in jsbin. Having a growth mindset taught me to never give up when there are setbacks in my codes or when I dont understand something. 
 
 [Previous](entry06.md) | [Next](entry08.md)
 
