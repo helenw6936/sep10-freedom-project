@@ -8,7 +8,7 @@ After working on my freedom project website about Performing Arts, there were ma
 I had planned my [presentation](prep/presentation.md) and what to say for the hook, process, and product to rehearse and [slides](https://docs.google.com/presentation/d/1sj4oZAVnDjhQXE24UjAJqgMFWSBsrw3I-JQZBelzvVg/edit) to help present my project.
  
 ## Engineering Design Process
-
+The last step in the engineering design process is to communicate and present my project to other people to make them aware of the technologies behind performing arts and the future that comes with it.
 
 ## Skills
 
